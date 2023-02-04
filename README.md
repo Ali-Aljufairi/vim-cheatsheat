@@ -19,6 +19,59 @@ Fundamentals
 | ESC     | exit insert mode                                    |
 | s       | Delete character under cursor and enter insert mode |
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Movement
 | Command | Explanation |
 | ------- | ----------- |
