@@ -32,10 +32,10 @@ Movement
 | $ | end of line |
 | gg | beginning of file |
 | G | end of file |
-| <ctrl-e>| scroll down |
-| <ctrl-y>| scroll up |
-| <ctrl-f>| page down |
-| <ctrl-b>| page up |
-| <ctrl-d>| half page down |
-| <ctrl-u>| half page up |
+| ctrl-e| scroll down |
+| ctrl-y| scroll up |
+| ctrl-f| page down |
+| ctrl-b| page up |
+| ctrl-d| half page down |
+| ctrl-u| half page up |
 |:n| go to line n |
