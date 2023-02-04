@@ -39,3 +39,15 @@ Movement
 | ctrl-d| half page down |
 | ctrl-u| half page up |
 |:n| go to line n |
+
+
+searching
+| Command | Explanation |
+| ------- | ----------- |
+| / | search forward |
+| ? | search backward |
+| n | next match |
+| N | previous match |
+| * | search for word under cursor |
+| # | search for word under cursor in reverse |
+| :noh | clear search highlighting |
