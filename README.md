@@ -7,7 +7,7 @@
 
 ### [Movement](#movement)
 
-#Fundamentals
+Fundamentals
 
 | Command | Explanation                                         |
 | ------- | --------------------------------------------------- |
@@ -19,7 +19,7 @@
 | ESC     | exit insert mode                                    |
 | s       | Delete character under cursor and enter insert mode |
 
-#Movement
+Movement
 | Command | Explanation |
 | ------- | ----------- |
 | l | right |
