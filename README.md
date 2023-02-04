@@ -4,9 +4,9 @@
 
 ### [Basic](#basic)
 
-### [Fundamentals](#fundamentals)
+### [Fundamentals](###fundamentals)
 
-### [Movement](#movement)
+### [Movement](###movement)
 
 ###Fundamentals
 
