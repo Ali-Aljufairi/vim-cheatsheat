@@ -5,6 +5,7 @@
 ### [Fundamentals](#fundamentals)
 
 ### [Movement](#movement)
+### [Searching](#searching)
 
 Fundamentals
 
@@ -51,3 +52,31 @@ searching
 | * | search for word under cursor |
 | # | search for word under cursor in reverse |
 | :noh | clear search highlighting |
+
+delete
+| Command | Explanation |
+| ------- | ----------- |
+| x | delete character under cursor |
+| X | delete character before cursor |
+| dd | delete line |
+| dw | delete word |
+| d$ | delete to end of line |
+| d0 | delete to beginning of line |
+| dG | delete to end of file |
+| dgg | delete to beginning of file |
+| d2w | delete 2 words |
+| d2e | delete to end of 2 words |
+| d2b | delete to beginning of 2 words |
+| d2$ | delete to end of 2 lines |
+| d2^ | delete to beginning of 2 lines |
+| d2gg | delete to beginning of 2 files |
+| d2G | delete to end of 2 files |
+| d2j | delete 2 lines down |
+| d2k | delete 2 lines up |
+| d2l | delete 2 characters right |
+| d2h | delete 2 characters left |
+| di" | delete inside quotes |
+| di' | delete inside single quotes |
+
+
+
