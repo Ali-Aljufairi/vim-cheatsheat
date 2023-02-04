@@ -7,6 +7,6 @@
 #### MOVEMENT
 
 | Command  | Explanation |
-| :------- | :---------: |
-| l        |    right    |
-| git diff |  git diff   |
+| -------- | ----------- |
+| l        | right       |
+| git diff | git diff    |
